@@ -4,24 +4,60 @@ body{
     font-family: 'Montserrat', sans-serif;
 font-family: 'Poppins', sans-serif;
 font-family: 'Ubuntu', sans-serif;
-margin: 0;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
 }
 .help-poor-people{
 height: 500px;
 background-image: url(images/donation3.jpg);
 background-size: cover;
-
+text-align: center;
+opacity: 0.8;
 }
-h1{
+.donate-to-help{
     text-align: center;
     color: white;
     padding-top: 100px;
     font-weight: bold;
     font-size: 40px;
-    
 }
 p{
     color: white;
     padding-top: 20px;
+    text-align: center;
+}
+.donate-now{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(221, 64, 20),rgb(200, 83, 50));
+    padding: 10px 20px;
+    margin: 60px;
+
+}
+.amount{
+    display: inline-block;
+    width:10%;
+    padding: 2%;
+    height: 80px;
+    background-color: rgb(224, 219, 219);
+    text-align: center;
+    margin-bottom: 60px;
+}
+.amount-div{
+  
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+.highlighted{
+    border: 5px solid orangered;
+}
+.other-amount{
+    color: gray;
+    text-align: center;
+}
+.donate{
     text-align: center;
 }
