@@ -90,3 +90,13 @@ p{
     background-color: rgb(215, 153, 29);
 
 }
+.subscribe{
+    width: 60%;
+    margin: auto;
+    height: 200px;
+    background-color: bisque;
+
+}
+.email{
+    margin:100px 100px;
+}
