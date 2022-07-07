@@ -100,3 +100,67 @@ p{
 .email{
     margin:100px 100px;
 }
+.relief-food{
+    width: 50%;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+ .exp-dev{
+    width:40%;
+    margin: 5%;
+    box-shadow: 10px 10px 20px olivedrab;
+    border-left: 5px solid orange;
+ }
+ .disaster-relief{
+    display: flex;
+    margin: 100px;
+}
+.disaster{
+    background-image: url(images/dream-bg.png);
+background-position: right;
+    background-repeat: no-repeat;
+}
+.img{
+    width:500px;
+    height: 300px;
+
+}
+.how-to-contribute{
+    text-decoration: none;
+    background-image: linear-gradient(orangered,orange);
+    padding: 10px 20px;
+    margin-left: 0;
+}
+.footer{
+    height: 100px;
+    background-color: black;
+    background-size: cover;
+    margin: 0%;
+}
+.footer-h3{
+    padding-top: 10px;
+    padding-bottom: 2px;
+    text-align: center;
+}
+.subscribe{
+    display: flex;
+    margin: auto;
+
+
+}
+.button{
+    background-image: linear-gradient(orangered rgb(148, 20, 108) );
+    background-color: orange;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    margin-top:95px;
+    margin-left: 2px;
+
+}
+.email{
+    margin-right: 0;
+    padding: 10px 20px;
+    margin-left:80px
+
+}
